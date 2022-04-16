@@ -3,18 +3,18 @@
     padding-top: 92px;
     align-self: flex-start;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1140px) {
     .intro {
         margin-left: 48px;
     }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 984px) {
     .intro {
         margin-left: 24px;
         padding-top: 88px;
     }
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 568px) {
     .intro {
         margin-left: 16px;
         padding-top: 64px;

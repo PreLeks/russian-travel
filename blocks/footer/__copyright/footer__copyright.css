@@ -1,13 +1,12 @@
 .footer__copyright {
     max-width: 186px;
-    font-weight: 400;
     font-size: 14px;
     line-height: 16px;
     text-align: right;
     margin: 0;
     align-self: flex-end;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 720px) {
     .footer__copyright {
         line-height: 14px;
         align-self: flex-start;
